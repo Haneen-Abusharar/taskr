@@ -75,3 +75,4 @@ gem 'rails-ujs', '~> 0.1.0'
 
 gem "twitter-bootstrap-rails"
 gem "font-awesome-rails"
+gem 'simple_form'
